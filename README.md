@@ -14,9 +14,7 @@ This application has been deployed live on Git Pages, and can be run by accessin
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+I have provided a screenshot of the application and attempted to show in the below syntax. Screenshot can be found within the images folder within the repo.
 
 
     ![Alt text](./assets/images/Screenshot.png)
